@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+canvas{
+	vertical-align: top;
+}
+#btn{
+	position: fixed;
+	right: 10px;
+	bottom: 10px
+}
