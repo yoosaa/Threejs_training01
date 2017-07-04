@@ -5,4 +5,4 @@ WebVRの練習。独学の為、突っ込みどころが多かったり、うま
 突っ込みは随時受付中。
 
 素材  
-・背景動画：（ttp://www.openspc2.org/HDTV/）
+・背景動画：[KaZuhiro FuRuhata様]: http://www.openspc2.org/HDTV/
